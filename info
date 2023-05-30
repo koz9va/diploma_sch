@@ -1,14 +1,14 @@
 {
-  "uuid": "917f7010b29571cc345176aad4e468f0",
-  "path": "Offline/diploma",
-  "name": "diploma",
+  "uuid": "cbe50923c38f21448e4974b30fb88598",
+  "path": "Offline/diploma_sch",
+  "name": "diploma_sch",
   "content": "",
   "created_at": "2023-05-09 20:41:36",
-  "updated_at": "2023-05-30 23:20:49",
+  "updated_at": "2023-05-30 23:50:23",
   "stick": "",
   "documents": [
     {
-      "uuid": "f055e811fc437a63335641c4fcbd80d3",
+      "uuid": "75e2dfb25feb406bca197b70083047c4",
       "title": "Sheet_1",
       "description": "",
       "docType": "1",
@@ -490,16 +490,16 @@
         "1190d12c3bd74961a0fbf1795c423410": 2
       },
       "BOM": [],
-      "updateTime": 1685478049,
+      "updateTime": 1685479823,
       "createTime": 1685475552,
       "histories": [],
       "created_at": "2023-05-30 22:39:12",
-      "updated_at": "2023-05-30 23:20:49"
+      "updated_at": "2023-05-30 23:50:23"
     }
   ],
   "sort": [],
-  "title": "diploma",
-  "foldername": "diploma",
+  "title": "diploma_sch",
+  "foldername": "diploma_sch",
   "schfilename": "diploma.json",
   "schfilemtime": 1685475544699
 }
